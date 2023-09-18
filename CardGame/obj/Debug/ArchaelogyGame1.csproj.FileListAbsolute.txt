@@ -1,0 +1,22 @@
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\bin\Debug\ArchaelogyGame1.exe.config
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\bin\Debug\ArchaelogyGame1.exe
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\bin\Debug\ArchaelogyGame1.pdb
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.csproj.AssemblyReference.cache
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.Form1.resources
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.Properties.Resources.resources
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.csproj.GenerateResource.cache
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.csproj.CoreCompileInputs.cache
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.exe
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.pdb
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.csproj.AssemblyReference.cache
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.Form1.resources
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.Properties.Resources.resources
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.csproj.GenerateResource.cache
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.csproj.CoreCompileInputs.cache
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.exe
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\obj\Debug\ArchaelogyGame1.pdb
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\bin\Debug\ArchaelogyGame1.exe.config
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\bin\Debug\ArchaelogyGame1.exe
+C:\Users\Halganite\Documents\COMPX102-22B\ArchaelogyGame1 - Copy\ArchaelogyGame1\bin\Debug\ArchaelogyGame1.pdb
